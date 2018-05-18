@@ -1,0 +1,4 @@
+{
+    "Log":{"dir":"log","name":"getbalance.log","console":false,"num":1000,"size":3000000,"level":"info"},
+    "Exec_time": "0 43 17 * * *"
+}
